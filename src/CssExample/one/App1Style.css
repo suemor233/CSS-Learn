@@ -1,0 +1,36 @@
+
+/*.success{*/
+/*    border: solid 1px #76c9e7;*/
+/*    color: #76c9e7;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.error{*/
+/*    border: solid 1px red;*/
+/*    color: red;*/
+/*}*/
+
+/*.mt10{*/
+/*    margin-top: 30px;*/
+/*}*/
+
+/*#myId{*/
+/*    border: solid 1px green;*/
+/*    color: green;*/
+/*}*/
+
+/*.father>:first-child{*/
+/*   color: green;*/
+/*}*/
+
+/*li{*/
+/*    list-style-type: none;*/
+/*}*/
+
+.computed{
+    transform: rotate(0.6turn)
+}
+
+.fix-this{
+    all: unset;
+}
